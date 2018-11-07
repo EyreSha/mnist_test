@@ -1,2 +1,4 @@
 # mnist_test
 mnist测试tensorflow
+这是第一次测试github上传，故用了mnist的项目，此项目也是tensorflow的入门项目。
+注意：里边的绝对路径是我的mnist的数据集的存放路径，使用时改为自己的路径即可。
